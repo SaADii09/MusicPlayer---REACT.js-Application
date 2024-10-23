@@ -9,8 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "hugeicons-react": "^0.3.0",
+  "dependencies": { 
+    
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
