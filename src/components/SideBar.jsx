@@ -1,7 +1,5 @@
 import React from 'react';
-import { Home03Icon } from '@hugeicons/react';
-
-
+w
 const SideBar = () => {
     return (
         <>
@@ -34,11 +32,7 @@ const SideBar = () => {
                                         strokeLinejoin="round"
                                     />
                                 </svg> */}
-                                <Home03Icon 
-      size={24} 
-      color={"#ffffff"}
-      variant={"stroke"}
-    />
+                                <Home03Icon size={24} color={'#ffffff'} variant={'stroke'} />
                                 <h3 className="text-white font-vazirmatn text-2xl">Home</h3>
                             </div>
                         </li>
